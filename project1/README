@@ -1,0 +1,23 @@
+CS2250 Programming and Data Structures
+Spring 2018
+Nelson Su
+
+Project 1: Array Manipulation and Pointers
+
+Part 1:
+Program prompts user for the size of the array to initialize (1-52).
+After the array is initialized, it is displayed to the screen.
+The shuffled version of the array is displayed after.
+
+Part 2:
+Two subarrays are dynamically created.
+Odd integers are stored in the oddArray.
+Even integers are stored in the evenArray.
+
+Part 3:
+An array fight is simulated where two arrays are taken.
+The odd and even array are compared by each matching index.
+The highest integer of each index will go into the resulting array.
+
+Part 4:
+The resulting array of the array fight will be sorted and displayed to screen.
