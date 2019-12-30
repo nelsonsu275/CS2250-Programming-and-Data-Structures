@@ -1,0 +1,10 @@
+CS2250 Programming and Data Structures
+Spring 2018
+Nelson Su
+
+Project 0: Guess Number Between 1-1000 (Hot-Cold Game)
+
+An array of 5 fixed random numbers is initialized.
+Program prompts user for a number between 1 to 1000 to guess a one of the 5 target numbers.
+The program will display "Warmer" if user is inputting numbers closer to one of the target numbers.
+The program will display "Colder" if user is inputting numbers farther from the target numbers.
